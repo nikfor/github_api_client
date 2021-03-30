@@ -1,1 +1,2 @@
 config/settings/development.yml
+log/*
