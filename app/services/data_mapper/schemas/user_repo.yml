@@ -1,0 +1,8 @@
+response:
+  user:
+    name: "user.name"
+  repositories:
+    - name: "node.name"
+      created_at: "node.createdAt"
+    - path: "data.repositoryOwner.repositories.edges"
+      only_base_types: false

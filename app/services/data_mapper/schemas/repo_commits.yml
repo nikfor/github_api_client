@@ -1,0 +1,8 @@
+response:
+  repo:
+    name: "repo_name"
+    commits:
+      - message: "node.message"
+        commit_date: "node.committedDate"
+      - path: "data.repository.object.history.edges"
+        only_base_types: false
